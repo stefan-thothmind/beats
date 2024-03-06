@@ -1,4 +1,4 @@
-FROM golang:1.16.5
+FROM golang:latest
 
 COPY test/main.go main.go
 
